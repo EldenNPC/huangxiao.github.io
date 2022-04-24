@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huangxiao.github.io</id>
     <title>huangxiao</title>
-    <updated>2022-04-24T13:50:57.373Z</updated>
+    <updated>2022-04-24T13:51:57.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huangxiao.github.io"/>
     <link rel="self" href="https://huangxiao.github.io/atom.xml"/>
@@ -31,12 +31,5 @@
 HPPC<strong>原始</strong>和交流阻抗数据和温升<strong>特性数据</strong>——&gt;电热模型</p>
 <p>充放电截止电压</p>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AUTOSAR]]></title>
-        <id>https://huangxiao.github.io/post/autosar/</id>
-        <link href="https://huangxiao.github.io/post/autosar/">
-        </link>
-        <updated>2022-04-24T12:13:17.000Z</updated>
     </entry>
 </feed>
