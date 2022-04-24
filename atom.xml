@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://huangxiao.github.io</id>
+    <title>huangxiao</title>
+    <updated>2022-04-24T13:50:57.373Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://huangxiao.github.io"/>
+    <link rel="self" href="https://huangxiao.github.io/atom.xml"/>
+    <logo>https://huangxiao.github.io/images/avatar.png</logo>
+    <icon>https://huangxiao.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, huangxiao</rights>
+    <entry>
+        <title type="html"><![CDATA[BMS需求分析]]></title>
+        <id>https://huangxiao.github.io/post/bms-xu-qiu-fen-xi/</id>
+        <link href="https://huangxiao.github.io/post/bms-xu-qiu-fen-xi/">
+        </link>
+        <updated>2022-04-24T12:23:29.000Z</updated>
+        <content type="html"><![CDATA[<p>初始需求：动力性、续航里程、安全性**(储能、高压安全)<strong>、使用便利性（充电时间、使用寿命）<br>
+电池系统：最大功率、剩余能量、安全性(管理成组、自身安全)、充电、寿命<br>
+电池管理系统：功率控制(SOP)、剩余能量管理（SOC、SOH--&gt;SOE)、安全管理、充电管理、寿命预测<br>
+<img src="https://huangxiao.github.io/post-images/1650803899856.png" alt="关系层" loading="lazy"><br>
+主要分为物理层（一次量）、中间层（二次量）、应用层<br>
+采样及测量功能：基础信息采样（单体和电池包）、功能扩展采样（热管理、充电枪、供电电源电压、高压回路电压采用）、 电安全采样（绝缘电阻检测、高压互锁检测）<br>
+状态估计及预测功能：电特性状态（SOC、SOH、SOE、SOP）、热安全特性状态估计（电池内部温度估计、漏电流估计</strong>内部微短路**）<br>
+控制及管理功能：均衡管理、热管理、充放电管理<br>
+<img src="https://huangxiao.github.io/post-images/1650804720890.png" alt="" loading="lazy"><br>
+通讯及诊断功能：通讯、故障诊断<br>
+电芯需求数据列表<br>
+基础数据、高级数据<br>
+<img src="https://huangxiao.github.io/post-images/1650805104502.png" alt="" loading="lazy"><br>
+HPPC<strong>原始</strong>和交流阻抗数据和温升<strong>特性数据</strong>——&gt;电热模型</p>
+<p>充放电截止电压</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AUTOSAR]]></title>
+        <id>https://huangxiao.github.io/post/autosar/</id>
+        <link href="https://huangxiao.github.io/post/autosar/">
+        </link>
+        <updated>2022-04-24T12:13:17.000Z</updated>
+    </entry>
+</feed>
